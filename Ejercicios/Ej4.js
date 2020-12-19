@@ -1,3 +1,4 @@
+/*Crear una función que reciba n cantidad de argumentos y los sume ( utilizar parametros rest)*/
 function suma(...rest) {
     let numeros = [...rest]
 

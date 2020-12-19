@@ -1,3 +1,5 @@
+/*Cree una función que capitalice la última letra de cada palabra.
+capLast("hello") ➞ "hellO"*/
 function capLast(texto) {
 
     let posPrimeraParte = texto.length - 1

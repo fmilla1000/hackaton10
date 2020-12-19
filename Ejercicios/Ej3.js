@@ -1,3 +1,4 @@
+/*Crear una funcion que me retorne el tipo de valor entregado, invocar la función para los distintos tipos de js*/
 function tipoDato(dato) {
     let tipo = typeof(dato)
     return tipo
